@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<div>
+		<p>글 목록입니다. LIM</p>
+	</div>
 </body>
 </html>
